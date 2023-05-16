@@ -1,0 +1,15 @@
+(F).classpath -- Última moficicació: 05/16/2023 09:31:50
+(F).project -- Última moficicació: 05/16/2023 09:31:50
+(D).settings -- Última moficicació: 05/16/2023 09:31:50
+(F)org.eclipse.core.resources.prefs -- Última moficicació: 05/16/2023 09:31:50
+(F)org.eclipse.jdt.core.prefs -- Última moficicació: 05/16/2023 09:31:52
+(F)Llista_Fitxers.txt -- Última moficicació: 05/16/2023 09:55:54
+(D)bin -- Última moficicació: 05/16/2023 09:32:14
+(D)s1t5n2 -- Última moficicació: 05/16/2023 09:33:49
+(F)FileManager.class -- Última moficicació: 05/16/2023 09:33:57
+(F)S1T5n2Exercici.class -- Última moficicació: 05/16/2023 09:56:14
+(F)dades.properties -- Última moficicació: 05/16/2023 09:54:18
+(D)src -- Última moficicació: 05/16/2023 09:32:14
+(D)s1t5n2 -- Última moficicació: 05/16/2023 09:33:49
+(F)FileManager.java -- Última moficicació: 05/16/2023 09:33:56
+(F)S1T5n2Exercici.java -- Última moficicació: 05/16/2023 09:56:14
