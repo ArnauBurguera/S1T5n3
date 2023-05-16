@@ -71,6 +71,16 @@ public class FileManager{
 		}
 	}
 	
+	public String llistaToString() {
+		String llista = "";
+		
+		for(String element: getLlista()) {
+			llista = llista + element + "\n";
+		}
+		
+		return llista;
+	}
+	
 	public void guardarLlistaTXT(String fileName) {
 		
 		try {
